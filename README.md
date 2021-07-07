@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rainh2001
-- 👀 I’m interested in web application development and artifial intelligence
-- 🌱 I’m currently learning JavaFX as a side project while studying at UTS
-- 💞️ I’m looking to collaborate on large web application systems and AI projects for space exploration
+- 👀 I'm primarily interested in web application development (mainly front-end) and computer science oriented interactive applications.
+- 🌱 I'm currently studying the Bachelor of Computing Science (Honours) at the University of Technology Sydney (UTS).
+- 💞️ I'm looking to collaborate on interactive web applications that focus on developing a deeper understanding of computer science fields.
 
 <!---
 Rainh2001/Rainh2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
